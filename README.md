@@ -1,6 +1,7 @@
 # Inventario
-## Aplicativo Python de Inventario
-Aplicativo de inventário, em Python, qua usa as bibliotecas tkinter, sqlite3 e openpyxl
+## Aplicativo de Inventario
+Aplicativo de inventário, em Python, que usa as bibliotecas tkinter, sqlite3 e openpyxl.
+Permite inserir imagem do item, mudar o fundo do app para cor escura e importar/exportar tabela para/de planilha.
 ##
 ![alt text](https://github.com/PedroF37/Inventario/blob/main/Imagens/Inventario01.png)
 ![alt text](https://github.com/PedroF37/Inventario/blob/main/Imagens/Inventario02.png)
